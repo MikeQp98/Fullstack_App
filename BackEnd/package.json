@@ -1,6 +1,8 @@
 {
   "name": "backend",
   "version": "1.0.0",
+  
+  "type": "module",
   "description": "Dependencias BackEnd",
   "main": "index.js",
   "scripts": {
